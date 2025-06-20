@@ -11,8 +11,8 @@ Este proyecto es una aplicación desarrollada para consultar autos.
 
 1. Clona el repositorio:
 	```bash
-	git clone https://github.com/tu-usuario/barbara.git
-	cd barbara
+	git clone https://github.com/bseguraa/tareabackend.git
+	cd tareabackend
 	```
 2. Instala las dependencias:
 	```bash
